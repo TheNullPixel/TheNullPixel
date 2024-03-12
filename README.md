@@ -52,6 +52,9 @@ i'm a frontend engineer from Ireland
 ### competent
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java " width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node js" alt="node js" width="40" height="40"/>
 <img src="" title="" alt="" width="40" height="40"/>
 </div>
 
