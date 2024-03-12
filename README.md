@@ -11,7 +11,7 @@
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=twxshy" alt=""/>
+<!--     <img src="https://komarev.com/ghpvc/?username=twxshy" alt=""/> -->
     <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,11 +24,11 @@
 ---
 ### :technologist: about me :
 i'm a frontend engineer from Ireland
-:mortar_board: final year software engineering student at queens university
-:briefcase: part time placement engineer contributing to frontend development and manual testing of mobile app
-:brain: passionate about creating apps to assist those with neruodivergence or mental health challenges
-:trophy: former competitive esports player interested in improving the life of players, coaches, teams and organisations
-:mailbox: get in contact using any of the links above
+- :mortar_board: final year software engineering student at queens university
+- :briefcase: part time placement engineer contributing to frontend development and manual testing of mobile app
+- :brain: passionate about creating apps to assist those with neruodivergence or mental health challenges
+- :trophy: former competitive esports player interested in improving the life of players, coaches, teams and organisations
+- :mailbox: get in contact using any of the links above
 
 ---
 ### :gear: languages and tools :
