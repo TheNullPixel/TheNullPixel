@@ -154,6 +154,7 @@
   <a href="https://github.com/twxshy" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twxshy&langs_count=10&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
   </a>
+
   <a href="http://www.github.com/twxshy">
     <img src="https://github-readme-stats.vercel.app/api?username=twxshy&show_icons=true&hide=stars,&count_private=true&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&show_icons=true" alt="twxshy's GitHub stats"/>
   </a>
