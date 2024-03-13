@@ -8,15 +8,14 @@
 
 ---
 ## :technologist: about me :
-- :round_pushpin: primarily based in belfast
+- :round_pushpin: based in belfast
 - :mortar_board: final year software engineering student at queens university belfast
 - :briefcase: part time placement engineer contributing to frontend development and manual testing of a mobile app
 - :brain: passionate about creating apps self-care/routine management apps
 - :trophy: former esports player interested in improving the life of players and coaches
 - :mailbox: get in contact using any of my social links below
 
-### socials
-
+<b> socials </b>
 <div>
   <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer">
     <picture>
