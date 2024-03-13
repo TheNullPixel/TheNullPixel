@@ -8,10 +8,10 @@
 
 ---
 ## :technologist: about me :
-- :round_pushpin: based in belfast
-- :mortar_board: final year software engineering student at queens university belfast
-- :briefcase: part time placement engineer contributing to frontend development and manual testing of a mobile app
-- :brain: passionate about creating apps self-care/routine management apps
+Final year software engineering student at queen's university belfast
+- :mortar_board: on track to graduate winter 2024 with a first
+- :briefcase: placement engineer contributing to frontend development and testing of a mobile app
+- :brain: passionate about creating self-care/daily routine management apps
 - :trophy: former esports player interested in improving the life of players and coaches
 - :mailbox: get in contact using any of my social links below
 
