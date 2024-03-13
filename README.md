@@ -75,6 +75,9 @@ coming soon!
   </a>
 </div>
 <div>
+  <a href="http://www.github.com/twxshy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=twxshy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
+<div>
   <a href="http://www.github.com/twxshy" align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=twxshy&stroke=ffffff&background=20232a&ring=57d9fa&fire=57d9fa&currStreakNum=ffffff&currStreakLabel=57d9fa&sideNums=57d9fa&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
   </a>
