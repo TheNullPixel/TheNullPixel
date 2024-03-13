@@ -20,7 +20,7 @@ i'm a frontend engineer from Ireland
   <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="undefined"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/blob/main/public/icons/socials/discord.svg"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32"/>
     </picture>
   </a>
   <a href="https://www.x.com/_twxshy" target="_blank" rel="noreferrer">
