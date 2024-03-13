@@ -1,10 +1,10 @@
-<a id="header" align="center">
+<div id="header" align="center">
   <img src="https://github.com/twxshy/twxshy/blob/main/Avatar.webp" width="200">
   <h1>
     Hey I'm Logan
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-</a>
+</div>
 
 ## :man_technologist: About Me :
 Final year software engineering student at Queen's University Belfast
