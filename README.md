@@ -8,16 +8,29 @@
 
 ---
 ## :technologist: about me :
-i'm a frontend engineer from Ireland
-- :mortar_board: final year software engineering student at queens university
-- :briefcase: part time placement engineer contributing to frontend development and manual testing of mobile app
-- :brain: passionate about creating apps to assist those with neruodivergence or mental health challenges
-- :trophy: former competitive esports player interested in improving the life of players, coaches, teams and organisations
+- :round_pushpin: primarily based in belfast
+- :mortar_board: final year software engineering student at queens university belfast
+- :briefcase: part time placement engineer contributing to frontend development and manual testing of a mobile app
+- :brain: passionate about creating apps self-care/routine management apps
+- :trophy: former esports player interested in improving the life of players and coaches
 - :mailbox: get in contact using any of my social links below
 
-### Socials
+### socials
 
-<p align="left"> <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_twxshy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div>
+  <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/>
+    </picture>
+  </a>
+  <a href="https://www.x.com/_twxshy" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/>
+    </picture>
+  </a>
+</div>
 
 ---
 ## :hammer_and_wrench: languages and tools :
@@ -102,5 +115,15 @@ i'm a frontend engineer from Ireland
 
 ---
 ### :chart_with_upwards_trend: statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=twxshy&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twxshy&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/twxshy" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twxshy&langs_count=10&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+  </a>
+  <a href="http://www.github.com/twxshy">
+    <img src="https://github-readme-stats.vercel.app/api?username=twxshy&show_icons=true&hide=stars,&count_private=true&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&show_icons=true" alt="twxshy's GitHub stats"/>
+  </a>
+
+  <a href="http://www.github.com/twxshy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=twxshy&stroke=ffffff&background=20232a&ring=57d9fa&fire=57d9fa&currStreakNum=ffffff&currStreakLabel=57d9fa&sideNums=57d9fa&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+  </a>
+</div>
