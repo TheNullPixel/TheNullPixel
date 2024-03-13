@@ -8,7 +8,7 @@
 
 ---
 
-## :technologist: About Me :
+## :man_technologist: About Me :
 Final year software engineering student at Queen's University Belfast
 - :mortar_board: On track to graduate Winter 2024 with a First
 - :briefcase: Placement engineer contributing to frontend development and testing of a mobile app
