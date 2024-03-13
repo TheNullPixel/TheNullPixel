@@ -104,13 +104,19 @@
 ### :book: other
 <div>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services"/></picture>
+    <picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services"/>
+    </picture>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></picture>
+    <picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/>
+    </picture>
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"/></picture>
+    <picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"/>
+    </picture>
   </a>
 </div>
 
