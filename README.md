@@ -60,6 +60,10 @@ Final year software engineering student at Queen's University Belfast
 </div>
 
 ---
+### :rocket: projects
+coming soon!
+
+---
 
 ### :chart_with_upwards_trend: Statistics
 <div>
