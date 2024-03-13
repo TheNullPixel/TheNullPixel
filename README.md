@@ -6,8 +6,6 @@
   </h1>
 </div>
 
----
-
 ## :man_technologist: About Me :
 Final year software engineering student at Queen's University Belfast
 - :mortar_board: On track to graduate Winter 2024 with a First
