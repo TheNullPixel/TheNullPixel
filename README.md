@@ -15,7 +15,7 @@ i'm a frontend engineer from Ireland
 - :trophy: former competitive esports player interested in improving the life of players, coaches, teams and organisations
 - :mailbox: get in contact using any of my social links below
 
-### socials
+<!-- ### socials
 <div>
   <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer">
     <picture>
@@ -30,7 +30,7 @@ i'm a frontend engineer from Ireland
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/>
     </picture>
   </a>
-<div/>
+<div/> -->
 
 ---
 ## :hammer_and_wrench: languages and tools :
