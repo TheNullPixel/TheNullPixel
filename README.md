@@ -7,7 +7,7 @@
 </div>
 
 ---
-### :technologist: about me :
+## :technologist: about me :
 i'm a frontend engineer from Ireland
 - :mortar_board: final year software engineering student at queens university
 - :briefcase: part time placement engineer contributing to frontend development and manual testing of mobile app
@@ -15,11 +15,11 @@ i'm a frontend engineer from Ireland
 - :trophy: former competitive esports player interested in improving the life of players, coaches, teams and organisations
 - :mailbox: get in contact using any of my social links below
 
-### Socials
+### socials
 <div>
   <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="undefined"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="undefined"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/blob/main/public/icons/socials/discord.svg"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/>
     </picture>
   </a>
@@ -32,12 +32,8 @@ i'm a frontend engineer from Ireland
   </a>
 <div/>
 
-
-
-
-
 ---
-### :hammer_and_wrench: languages and tools :
+## :hammer_and_wrench: languages and tools :
 ### :gear: core
 <div>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
