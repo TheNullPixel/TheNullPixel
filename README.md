@@ -17,7 +17,7 @@ I'm a 22 year old frontend developer from Belfast.
 
 **Socials**
 <div>
-  <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a><a href="https://stackoverflow.com/users/23606500/nullogan" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/stackoverflow.svg" width="32" height="32"/></a><a href="https://www.x.com/_twxshy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32"/></a>
+  <a href="https://discord.com/users/twxshy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a><a href="https://stackoverflow.com/users/23626837/thenullpixel" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/stackoverflow.svg" width="32" height="32"/></a><a href="https://www.x.com/_twxshy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32"/></a>
 </div>
 
 ---
