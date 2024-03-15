@@ -69,17 +69,17 @@ coming soon!
 
 ### :chart_with_upwards_trend: Statistics
 <div>
-  <a href="https://github.com/twxshy" align="left">
+  <a href="https://github.com/TheNullPixel" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twxshy&langs_count=10&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
   </a>
 </div>
 <div>
-  <a href="http://www.github.com/twxshy" align="left">
+  <a href="http://www.github.com/TheNullPixel" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=twxshy&show_icons=true&hide=stars,&count_private=true&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&show_icons=true" alt="twxshy's GitHub stats"/>
   </a>
 </div>
 <div>
-  <a href="http://www.github.com/twxshy" align="left">
+  <a href="http://www.github.com/TheNullPixel" align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=twxshy&stroke=ffffff&background=20232a&ring=57d9fa&fire=57d9fa&currStreakNum=ffffff&currStreakLabel=57d9fa&sideNums=57d9fa&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
   </a>
 </div>
