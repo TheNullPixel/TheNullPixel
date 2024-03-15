@@ -6,12 +6,14 @@
 </div>
 
 ## :man_technologist: About Me :
-Final year software engineering student at Queen's University Belfast
-- :mortar_board: On track to graduate Winter 2024 with a First
+I'm a 22 year old frontend developer from Belfast.
+- :mortar_board: Final year softwate engineering student at Queen's University Belfast
 - :briefcase: Placement engineer contributing to frontend development and testing of a mobile app
 - :brain: Passionate about creating self-care/daily routine management apps
-- :trophy: Former esports player interested in improving the life of players and coaches
-- :mailbox: Get in contact using any of my social links below
+- :trophy: Former esports player with an interest in improving the life of players and coaches
+- :seedling: I am currently practicing creating professional designs in Figma
+- :dart: My current goal is to have a deployed website to showcase my portfolio
+- :mailbox: Contact me via any of my social links below
 
 **Socials**
 <div>
