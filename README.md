@@ -69,17 +69,17 @@ coming soon!
 
 ### :chart_with_upwards_trend: Statistics
 <div>
-  <a href="https://github.com/TheNullPixel" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNullPixel&langs_count=10&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
+  <a href="https://github.com/null-pixel-dev" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-pixel-dev&langs_count=10&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
   </a>
 </div>
 <div>
-  <a href="http://www.github.com/TheNullPixel" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheNullPixel&show_icons=true&hide=stars,&count_private=true&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&show_icons=true" alt="TheNullPixel's GitHub stats"/>
+  <a href="http://www.github.com/null-pixel-dev" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=null-pixel-dev&show_icons=true&hide=stars,&count_private=true&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&show_icons=true" alt="TheNullPixel's GitHub stats"/>
   </a>
 </div>
 <div>
-  <a href="http://www.github.com/TheNullPixel" align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNullPixel&stroke=ffffff&background=20232a&ring=57d9fa&fire=57d9fa&currStreakNum=ffffff&currStreakLabel=57d9fa&sideNums=57d9fa&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+  <a href="http://www.github.com/null-pixel-dev" align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-pixel-dev&stroke=ffffff&background=20232a&ring=57d9fa&fire=57d9fa&currStreakNum=ffffff&currStreakLabel=57d9fa&sideNums=57d9fa&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
   </a>
 </div>
