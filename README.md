@@ -7,7 +7,7 @@
 
 ## :man_technologist: About Me :
 I'm a 22 year old frontend developer from Belfast.
-- :mortar_board: Final year softwate engineering student at Queen's University Belfast
+- :mortar_board: Final year softwar engineering student at Queen's University Belfast
 - :briefcase: Placement engineer contributing to frontend development and testing of a mobile app
 - :brain: Passionate about creating self-care/daily routine management apps
 - :trophy: Former esports player with an interest in improving the life of players and coaches
