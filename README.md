@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <h1>
-    Hey there, I'm Logan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# Hey there, I'm Logan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/>
+
+---
 
 ## :man_technologist: About Me :
 
@@ -19,9 +16,7 @@ I'm a 22 year old frontend developer from Belfast.
 
 ### socials
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>](https://discord.com/users/twxshy) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Discord"/>](https://stackoverflow.com/users/23626837/thenullpixel) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Discord"/>](https://www.twitter.com/nullpixeldev)
-
----
+## [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>](https://discord.com/users/twxshy) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Discord"/>](https://stackoverflow.com/users/23626837/thenullpixel) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Discord"/>](https://www.twitter.com/nullpixeldev)
 
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -42,18 +37,6 @@ coming soon!
 
 ### :chart_with_upwards_trend: Statistics
 
-<div>
-  <a href="https://github.com/null-pixel-dev" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-pixel-dev&langs_count=10&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
-  </a>
-</div>
-<div>
-  <a href="http://www.github.com/null-pixel-dev" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=null-pixel-dev&show_icons=true&hide=stars,&count_private=true&title_color=57d9fa&text_color=ffffff&icon_color=57d9fa&bg_color=20232a&hide_border=true&show_icons=true" alt="TheNullPixel's GitHub stats"/>
-  </a>
-</div>
-<div>
-  <a href="http://www.github.com/null-pixel-dev" align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-pixel-dev&stroke=ffffff&background=20232a&ring=57d9fa&fire=57d9fa&currStreakNum=ffffff&currStreakLabel=57d9fa&sideNums=57d9fa&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-  </a>
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=null-pixel-dev&langs_count=10&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=20232a&hide_border=true&locale=en)](https://github.com/null-pixel-dev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=null-pixel-dev&show_icons=true&hide=stars,&count_private=true&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=20232a&hide_border=true)](http://www.github.com/null-pixel-dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=null-pixel-dev&stroke=e5289e&background=20232a&ring=e2e9ec&fire=e2e9ec&currStreakNum=ef8539&currStreakLabel=e5289e&sideNums=e2e9ec&sideLabels=e5289e&dates=e5289e&hide_border=true)](http://www.github.com/null-pixel-dev)
