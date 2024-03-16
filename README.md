@@ -1,4 +1,4 @@
-# Hey there, I'm Logan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/>
+# Hey there, I'm Null Pixel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/>
 
 ## :man_technologist: About Me
 
@@ -20,8 +20,14 @@ I'm a 22 year old frontend developer from Belfast.
 
 ## :hammer_and_wrench: Languages and Tools:
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" height="32" alt="Git"/>](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32" height="32" alt="TypeScript"/>](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" alt="React"/>](https://reactjs.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32" alt="CSS3"/>](https://www.w3.org/TR/CSS/#css) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" alt="NodeJS"/>](https://nodejs.org/en/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" height="32" alt="Linux"/>](https://www.linux.org)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" height="32" alt="Git"/>](https://git-scm.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32" height="32" alt="TypeScript"/>](https://www.typescriptlang.org/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" alt="React"/>](https://reactjs.org/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32" alt="CSS3"/>](https://www.w3.org/TR/CSS/#css) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" alt="NodeJS"/>](https://nodejs.org/en/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" height="32" alt="Linux"/>](https://www.linux.org)
 
 ## 🔍 Software
 
