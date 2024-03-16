@@ -13,7 +13,7 @@ I'm a 22 year old frontend developer from Belfast.
 - :briefcase: Placement engineer contributing to frontend development and testing of a mobile app
 - :brain: Passionate about creating self-care/daily routine management apps
 - :trophy: Former esports player with an interest in improving the life of players and coaches
-- :seedling: Currently practicing creating professional designs in Figma
+- :seedling: Currently learning how to create professional designs in Figma
 - :dart: Active goal is to have a deployed website to showcase my portfolio
 - :mailbox: Contact me via any of my social links below
 
