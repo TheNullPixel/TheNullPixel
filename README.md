@@ -1,7 +1,7 @@
 # Hey there, I'm Logan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/>
 
+## :man_technologist: About Me
 
-## :man_technologist: About Me :
 I'm a 22 year old frontend developer from Belfast.
 
 - :mortar_board: Final year software engineering student at Queen's University Belfast
@@ -15,6 +15,8 @@ I'm a 22 year old frontend developer from Belfast.
 ### socials
 
 ## [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>](https://discord.com/users/twxshy) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Discord"/>](https://stackoverflow.com/users/23626837/thenullpixel) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Discord"/>](https://www.twitter.com/nullpixeldev)
+
+---
 
 ## :hammer_and_wrench: Languages and Tools:
 
