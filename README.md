@@ -18,6 +18,7 @@ I'm a 22 year old frontend developer from Belfast.
 - :mailbox: Contact me via any of my social links below
 
 **Socials**
+
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>](https://discord.com/users/twxshy) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Discord"/>](https://stackoverflow.com/users/23626837/thenullpixel) [<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Discord"/>](https://www.twitter.com/nullpixeldev)
 
 ---
