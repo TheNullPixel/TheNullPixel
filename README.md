@@ -1,9 +1,7 @@
 # Hey there, I'm Logan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/>
 
----
 
 ## :man_technologist: About Me :
-
 I'm a 22 year old frontend developer from Belfast.
 
 - :mortar_board: Final year software engineering student at Queen's University Belfast
