@@ -10,7 +10,7 @@ I'm a 22 year old frontend developer from Belfast.
 - :trophy: Former esports player with an interest in improving the life of players and coaches
 - :seedling: Currently learning how to create professional designs in Figma
 - :dart: Active goal is to have a deployed website to showcase my portfolio
-- :mailbox: Contact me via any of my social links below
+- :mailbox: Contact me via any of my social links below or email me: nullpixeldev@proton.me
 
 **socials**
 
