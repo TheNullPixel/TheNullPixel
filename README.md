@@ -41,8 +41,8 @@ coming soon!
 
 ## :chart_with_upwards_trend: Statistics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=null-pixel-dev&langs_count=10&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=20232a&hide_border=true&locale=en)](https://github.com/null-pixel-dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=null-pixel-dev&langs_count=10&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=20232a&hide_border=true&locale=en)](https://github.com/lgn-0)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=null-pixel-dev&show_icons=true&count_private=true&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=20232a&hide_border=true)](http://www.github.com/null-pixel-dev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=null-pixel-dev&show_icons=true&count_private=true&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=20232a&hide_border=true)](http://www.github.com/lgn-0)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=null-pixel-dev&stroke=e5289e&background=20232a&ring=e2e9ec&fire=e2e9ec&currStreakNum=ef8539&currStreakLabel=e5289e&sideNums=e2e9ec&sideLabels=e5289e&dates=e5289e&hide_border=true)](http://www.github.com/null-pixel-dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lgn-0&stroke=e5289e&background=20232a&ring=e2e9ec&fire=e2e9ec&currStreakNum=ef8539&currStreakLabel=e5289e&sideNums=e2e9ec&sideLabels=e5289e&dates=e5289e&hide_border=true)](http://www.github.com/lgn-0)
