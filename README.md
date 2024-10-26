@@ -2,19 +2,17 @@
 
 ## :man_technologist: About Me
 
-I'm a 22 year old frontend developer from Belfast.
+I'm a 23 year old frontend developer from Belfast.
 
-- :mortar_board: Final year software engineering student at Queen's University Belfast
-- :briefcase: Placement engineer contributing to frontend development and testing of a mobile app
-- :brain: Passionate about creating self-care/daily routine management apps
-- :trophy: Former esports player with an interest in improving the life of players and coaches
+- :mortar_board: Software engineering graduate from Queen's University Belfast
+- :briefcase: Junior engineer contributing to frontend development and testing of a React Native app
+- :brain: Passionate about creating tools to use for maximizing progress in games
 - :seedling: Currently learning how to create professional designs in Figma
 - :dart: Active goal is to have a deployed website to showcase my portfolio
-- :mailbox: Contact me via any of my social links below or email me: nullpixeldev@proton.me
 
 **socials**
 
-[<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter"/>](https://www.twitter.com/nullpixeldev)
+[<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter"/>](https://www.twitter.com/_lgnnn)
 
 ---
 
